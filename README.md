@@ -2,12 +2,13 @@
 contiki基础学习，开发 物联网（IoT）
 
 官网：http://contiki-os.org/
+
 Github: https://github.com/HuangCongQing/contiki
 
-*[Contiki-3.0例子程序](./contiki-3.0（例子程序）/)
+* [Contiki-3.0例子程序](./contiki-3.0（例子程序）/)
 
 
-### 现在准备
+### 现在准备    
 官网上已经有各种下载软件链接以及步骤了，看下图
 http://contiki-os.org/start.html
 ![image.png](https://upload-images.jianshu.io/upload_images/4340772-43f2890b4e6f9fd2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
